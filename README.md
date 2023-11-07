@@ -1,66 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!-- <p align="center"><a href="https://iyata.net" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p> -->
+
+<p align="center"><a href="https://iyata.net" target="_blank">Mano Amiga</a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://vuejs.org/">Vue.js</a>
+<a href="https://themeforest.net/item/cork-vuejs-laravel-admin-dashboard-template/35448989">Cork</a>
 </p>
 
-## About Laravel
+## Acerca de Mano Amiga
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Mano Amiga es una aplicación web basada en el framework Laravel, usando tecnología Vue.js y la plantilla Cork. 
+Mano Amiga está siendo desarrollada por un grupo de colombianos que creen fielmente en el trabajo cooperativo, el apoyo a la comunidad, el crecimiento colectivo social y el fortalecimiento de las cadenas de apoyo para todas aquellas entidades que encuentren en grupos de voluntarios una fuuente inagotable de apoyo, crecimiento y renocimiento:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- Fundaciones
+- Juntas de Acción Local o Comunal
+- Colectivos civiles
+- Entidades sin ánimo de lucro
+
+Deseamos ser más que una aplicación, buscamos construir una plataforma que le permita a las entidades contar con una poderosa herramienta capaz de solucionar los problemas de comunicación con sus voluntarios, logística de procesos y visibilidad de los proyectos en el largo plazo para que puedan tejer redes en torno a su misión y objetivos.
+
+- [Fundación Sanar](https://sanarcancer.org/).
+
+<!-- - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting). -->
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## ¿Cómo funciona?
 
-## Learning Laravel
+Mano Amiga es un gestor de proyectos y voluntarios, en donde el personal de la institución puede crear eventos, tareas y/o procesos para ser asignados a un equipo de trabajo y que ellos voluntariamente puedan discriminar las tareas para las cuales están prearados a cumplir.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Hemos descubierto que las fundaciones tienen a su alrededor personas con gran voluntad de apoyo, sin embargo está capacidad se ve menguada con el pasar del tiempo debido a la falta de comunicación desde la entidad hacía sus voluntarios y visceversa, el objetivo de Mano Amiga es eliminar la brecha de comunicación y permitir que los voluntarios conozcan la panorámica completa y así poder participar en los proyectos y o tareas que mas se ajusten a su capacidad, de esta forma lograremos que toda la comunidad se encuentre activa pero diseminada en pequeñas actividades.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Patrocinadores
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Actualmente ManoAmiga se encuentra sostenida por la comunidad de programadores y sostenida en su arquitectura por [Iyata LLC](https://iyata.net).
 
-## Laravel Sponsors
+### Destacados
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- **[Exagos](https://www.exagos.co/)**
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Mano Amiga es creado y soportado Laravel y Vue.js de código abierto y licenciado bajo [MIT](https://opensource.org/licenses/MIT).
